@@ -8,6 +8,6 @@
 [![Twitter](https://img.icons8.com/color/28/000000/twitter-squared.png)](https://twitter.com/shobhit_bhatt_)
 -----
 
-🌱 I’m currently learning **React**  
-💬 Grow and help growing  
-⚡ I'm not a robot
+- 🌱 I’m currently learning **React**  
+- 💬 Grow and help growing  
+- ⚡ I'm not a robot
